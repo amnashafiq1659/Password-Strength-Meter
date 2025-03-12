@@ -1,0 +1,84 @@
+.stApp {
+  background-color: #014d4e;
+}
+
+h1 {
+  color: #b2f3f3 !important;
+  font-family: Inter !important;
+  text-align: center !important;
+}
+
+h2 {
+  color: #b2f3f3 !important;
+  font-family: Inter !important;
+  font-size: 34px !important;
+  text-align: center !important;
+}
+
+h3 {
+  color: #b2f3f3 !important;
+  font-family: Inter !important;
+  font-size: 26px !important;
+  text-align: center !important;
+}
+
+p {
+  color: #b2f3f3 !important;
+  font-family: Inter !important;
+  font-size: 20px !important;
+  text-align: center !important;
+}
+
+.stButton > button,
+.stButton > button * {
+  background-color: #b2f3f3 !important;
+  color: #014d4e !important;
+  font-family: Inter !important;
+  font-size: 24px !important;
+}
+
+.stTextInput input {
+  background-color: #b2f3f3 !important;
+  color: #014d4e !important;
+  font-family: Inter !important;
+}
+
+.feedback-msg {
+  color: #b2f3f3 !important;
+  font-family: Inter !important;
+  font-size: 20px !important;
+}
+
+[data-testid="stSidebar"] {
+  background-color: #b2f3f3 !important;
+}
+
+[data-testid="stSidebar"] h1 {
+  color: #014d4e !important;
+  font-family: Inter !important;
+}
+
+[data-testid="stSidebar"] h3 {
+  color: #014d4e !important;
+  font-family: Inter !important;
+  font-size: 18px !important;
+}
+
+[data-testid="stSidebar"] p {
+  color: #014d4e !important;
+  font-family: Inter !important;
+  font-size: 16px !important;
+  text-align: left !important;
+}
+
+[data-testid="stSidebar"] hr {
+  border-color: #014d4e !important;
+}
+
+[data-testid="stSidebar"] button,
+[data-testid="stSidebar"] button * {
+  background-color: #014d4e !important;
+  color: #b2f3f3 !important;
+  font-family: Inter !important;
+  font-size: 20px !important;
+}
